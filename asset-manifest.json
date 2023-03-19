@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/demo-react-webgis/static/css/main.49a7950d.css",
-    "main.js": "/demo-react-webgis/static/js/main.0adeadee.js",
+    "main.css": "/demo-react-webgis/static/css/main.30a3d04a.css",
+    "main.js": "/demo-react-webgis/static/js/main.50f95e5e.js",
     "static/js/787.427bd235.chunk.js": "/demo-react-webgis/static/js/787.427bd235.chunk.js",
     "index.html": "/demo-react-webgis/index.html",
-    "main.49a7950d.css.map": "/demo-react-webgis/static/css/main.49a7950d.css.map",
-    "main.0adeadee.js.map": "/demo-react-webgis/static/js/main.0adeadee.js.map",
+    "main.30a3d04a.css.map": "/demo-react-webgis/static/css/main.30a3d04a.css.map",
+    "main.50f95e5e.js.map": "/demo-react-webgis/static/js/main.50f95e5e.js.map",
     "787.427bd235.chunk.js.map": "/demo-react-webgis/static/js/787.427bd235.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49a7950d.css",
-    "static/js/main.0adeadee.js"
+    "static/css/main.30a3d04a.css",
+    "static/js/main.50f95e5e.js"
   ]
 }
